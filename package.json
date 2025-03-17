@@ -1,0 +1,11 @@
+{
+  "name": "neurodx-trainer",
+  "version": "1.0.0",
+  "description": "A simple neurological case trainer",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
